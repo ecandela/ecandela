@@ -12,4 +12,4 @@ You can find out more about me on [![LinkedIn][1.2]][1].
 
 <!-- Links to your social media accounts -->
 
-[1]: [https://www.linkedin.com/in/erik-carl-candela-rojas/?locale=en_US]
+[1]: https://www.linkedin.com/in/erik-carl-candela-rojas/?locale=en_US
