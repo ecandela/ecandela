@@ -4,6 +4,7 @@
 
 <!-- Actual text -->
 
+
 You can find out more about me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
