@@ -1,3 +1,5 @@
+![c0](https://github.com/ecandela/ecandela/blob/main/Banner_cv.jpg)
+ 
 ## Welcome on my GitHub !
 
 <p>Bachelor's in Computer Engineering with over 5 years of experience in the field of Advanced Analytics and Data Science, specializing in processes involving the analysis of large volumes of information (Big Data) and predictive modeling using the CRISP-DM methodology. I generate value-driven propositions by creating early alert systems, enhancing targeted strategies, and implementing tools for proactive management.
