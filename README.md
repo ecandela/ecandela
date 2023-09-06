@@ -6,7 +6,7 @@
 
 Currently, I possess strong expertise in Statistical Analysis, Econometrics, Natural Language Processing (NLP), Machine Learning, and Deep Learning. I am also highly proficient in the English language and skilled in tools such as Python, R Studio, SQL, Excel with macros, Visual Basic (VBA), and Power BI.
 
-Furthermore, I hold specialized certifications in Data Science and Advanced Analytics. I contribute by publishing articles on topics related to Market Risk, Investments, Portfolios, and Derivatives. My analytical prowess and attention to detail are notable strengths that set me apart.</p>
+Furthermore, I hold specialized certifications in Data Science and Advanced Analytics. My analytical prowess and attention to detail are notable strengths that set me apart.</p>
 
 <!-- Actual text -->
 
